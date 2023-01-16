@@ -1,9 +1,21 @@
-# Read Me Generator
+# README GENERATOR
 
-## Generate a professional read-me quickly using this program created with inquirer!
+## Description
 
-- Behind this project came the motivation to help the end user create a professional read-me file without having the worry about the structure of the file and only the content being pushed to the file.
+- You will prompted a series of questions/statements which will produce a professionial readme.
 
-- This program solves the issue of having to take the time to create a polished read-me. While using this program all you have to worry about is the content you want to be on the read-me file. Lets take the heavy lifting out of creating a read-me!
+- The sections are going to be the title, description, installation, usage, license, contributions, tests, and finally you will enter your github username and email where people can contact you.
 
-- During the time of creating this program I learned how useful node.js can be, how to properly use npm, and how to properly use the documentation provided for npm extensions such as the documentation for inquirer.
+## Installation
+
+- First you must have node.js and inquirer.js installed.
+
+- Install node.js: https://nodejs.org/en/download/
+
+- Install inquirer: http://adilapapaya.com/docs/inquirer/
+
+## Usage
+
+- Github link: https://github.com/AveryNewhart/README-Generator
+
+- Video
