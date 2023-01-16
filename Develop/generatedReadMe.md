@@ -22,7 +22,7 @@
   - (https://opensource.org/licenses/MIT)
 
   ## Contributions
-  - https://averynewhart.github.io/Avery-Portfolio/
+  - N/A
 
   ## Tests
   - N/A

@@ -69,7 +69,7 @@ const questions =
 },
 {
         type: 'input',
-        message: 'What is the applications link?',
+        message: 'Did anyone else contribute on this project?',
         name: 'contributions',
         validate: (value) => { 
             if(value){
