@@ -1,4 +1,4 @@
-# gtgtgt
+# My Portfolio
  
   ## Table of Contents:
 
@@ -9,25 +9,25 @@
   * [License](#license)
   
   # Description
-  - gtgtgt
+  - This holds a short bio about me, some of my applications, and how to contact me.
 
   # Installation
-  - gtgtgtgt
+  - N/A
 
   ## Usage
-  - gtgtgtgtgt
+  - N/A
 
   ## License
   - license : MIT License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   - (https://opensource.org/licenses/MIT)
 
   ## Contributions
-  - gtgtggt
+  - https://averynewhart.github.io/Avery-Portfolio/
 
   ## Tests
-  - gtgtgt
+  - N/A
 
   ## Questions
   - Contact me
-  - Github: https://github.com/gtgtgtg
-  - Email: gtgtgtg
+  - Github: https://github.com/averynewhart
+  - Email: newhartreeceavery@gmail.com
