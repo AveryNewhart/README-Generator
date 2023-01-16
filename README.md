@@ -18,4 +18,4 @@
 
 - Github link: https://github.com/AveryNewhart/README-Generator
 
-- Video
+- https://drive.google.com/file/d/1FvsMK9ErkjRXaTZiqIoq6VIzYojyGJMI/view

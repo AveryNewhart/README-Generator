@@ -7,9 +7,10 @@
   * [Usage](#usage)
   * [Contributions](#contributions)
   * [License](#license)
+  * [Questions](#questions)
   
   # Description
-  - This holds a short bio about me, some of my applications, and how to contact me.
+  - You will see a short bio about me, my deployed applications, and how to contact me.
 
   # Installation
   - N/A
